@@ -1,4 +1,4 @@
- ﻿asgiref==3.4.1
+asgiref==3.4.1
 astroid==2.4.2
 asttokens==2.0.8
 autopep8==1.6.0
